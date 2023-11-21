@@ -14,7 +14,7 @@ export default {
       'https://api.lunarclientprod.com/launcher/metadata',
     WEBSITE: 'https://solartweaks.com',
   },
-  API_URL: 'https://localhost:80',
+  API_URL: 'https://api.solartweaks.com',
   ENGINE: {
     ENGINE: 'solar-engine.jar',
     CONFIG: 'config.json',
